@@ -1,0 +1,26 @@
+{
+  "name": "matt-onedark",
+  "displayName": "Neutral Darker One Dark",
+  "description": "A variant of One Dark with a completely neutral and dark background.",
+  "version": "1.0.0",
+  "publisher": "matta9001",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matta9001/neutral-onedark.git"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Custom onedark theme.",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matt-onedark.json"
+      }
+    ]
+  }
+}
