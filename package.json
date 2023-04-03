@@ -1,7 +1,7 @@
 {
-  "name": "matt-onedark",
-  "displayName": "Neutral Darker One Dark",
-  "description": "A variant of One Dark with a completely neutral and dark background.",
+  "name": "neutral-onedark",
+  "displayName": "One Dark Neutral",
+  "description": "A variant of the classic onedark theme with a completely neutral background.",
   "version": "1.0.0",
   "publisher": "matta9001",
   "repository": {
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "My Custom onedark theme.",
+        "label": "One Dark Neutral",
         "uiTheme": "vs-dark",
-        "path": "./themes/matt-onedark.json"
+        "path": "./themes/onedark-neutral.json"
       }
     ]
   }
